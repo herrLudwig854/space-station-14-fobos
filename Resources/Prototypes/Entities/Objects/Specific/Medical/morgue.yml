@@ -95,6 +95,28 @@
       paper_label: !type:ContainerSlot
   - type: StaticPrice
     price: 50
+  #DS14-start
+  - type: Damageable
+    damageContainer: Inorganic
+    damageModifierSet: Wood
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 80
+      behaviors:
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+      - !type:EmptyContainersBehaviour
+        containers:
+        - entity_storage
+        - paper_label
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          SheetPlastic:
+            min: 0
+            max: 2
+  #DS14-end
 
 - type: entity
   id: BodyBagFolded
