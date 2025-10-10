@@ -39,14 +39,6 @@
     state: torso
 
 - type: marking
-  id: AugmentsCyberheavyGroin
-  bodyPart: Chest
-  markingCategory: Chest
-  sprites:
-  - sprite: _DeadSpace/Mobs/Customization/augments/cyberbody.rsi
-    state: groin
-
-- type: marking
   id: AugmentsCyberheavyFootRight
   bodyPart: RFoot
   markingCategory: Legs

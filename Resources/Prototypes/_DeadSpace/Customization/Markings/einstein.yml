@@ -39,14 +39,6 @@
     state: torso_f
 
 - type: marking
-  id: AugmentsEinsteinGroin
-  bodyPart: Chest
-  markingCategory: Chest
-  sprites:
-  - sprite: _DeadSpace/Mobs/Customization/augments/einstein.rsi
-    state: groin_f
-
-- type: marking
   id: AugmentsEinsteinLegRight
   bodyPart: RLeg
   markingCategory: Legs
