@@ -1,6 +1,14 @@
 - type: stationGoal
-  id: Shuttle
-  text: "/Paperwork/StationGoal/Shuttle.xml"
+  id: ShuttleMedical
+  text: "/Paperwork/StationGoal/ShuttleMedical.xml"
+
+- type: stationGoal
+  id: ShuttleMiner
+  text: "/Paperwork/StationGoal/ShuttleMiner.xml"
+
+- type: stationGoal
+  id: ShuttleRND
+  text: "/Paperwork/StationGoal/ShuttleRND.xml"
 
 - type: stationGoal
   id: SolarPanels
