@@ -10,5 +10,5 @@
     layers:
     - state: base
     - state: overlay
-      color: "#9af064"
+      color: "#EFB341"
     - state: icon-default
