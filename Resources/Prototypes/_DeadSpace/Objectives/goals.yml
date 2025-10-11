@@ -1,16 +1,4 @@
 - type: stationGoal
-  id: ShuttleMedical
-  text: "/Paperwork/StationGoal/ShuttleMedical.xml"
-
-- type: stationGoal
-  id: ShuttleMiner
-  text: "/Paperwork/StationGoal/ShuttleMiner.xml"
-
-- type: stationGoal
-  id: ShuttleRND
-  text: "/Paperwork/StationGoal/ShuttleRND.xml"
-
-- type: stationGoal
   id: SolarPanels
   text: "/Paperwork/StationGoal/SolarPanels.xml"
 
@@ -81,3 +69,27 @@
 - type: stationGoal
   id: HydroponicsInVacuum
   text: "/Paperwork/StationGoal/HydroponicsInVacuum.xml"
+
+- type: stationGoal
+  id: ShuttleMedical
+  text: "/Paperwork/StationGoal/ShuttleMedical.xml"
+
+- type: stationGoal
+  id: ShuttleMiner
+  text: "/Paperwork/StationGoal/ShuttleMiner.xml"
+
+- type: stationGoal
+  id: ShuttleRND
+  text: "/Paperwork/StationGoal/ShuttleRND.xml"
+
+- type: stationGoal
+  id: ShuttleDock
+  text: "/Paperwork/StationGoal/ShuttleDock.xml"
+
+- type: stationGoal
+  id: Museum
+  text: "/Paperwork/StationGoal/Museum.xml"
+
+- type: stationGoal
+  id: Virusology
+  text: "/Paperwork/StationGoal/Virusology.xml"
